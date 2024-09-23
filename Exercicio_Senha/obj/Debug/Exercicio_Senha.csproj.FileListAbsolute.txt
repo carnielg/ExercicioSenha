@@ -1,0 +1,7 @@
+C:\Users\guica\Downloads\ExercícioConstrutores\Exercicio_Senha\bin\Debug\Exercicio_Senha.exe.config
+C:\Users\guica\Downloads\ExercícioConstrutores\Exercicio_Senha\bin\Debug\Exercicio_Senha.exe
+C:\Users\guica\Downloads\ExercícioConstrutores\Exercicio_Senha\bin\Debug\Exercicio_Senha.pdb
+C:\Users\guica\Downloads\ExercícioConstrutores\Exercicio_Senha\obj\Debug\Exercicio_Senha.csproj.AssemblyReference.cache
+C:\Users\guica\Downloads\ExercícioConstrutores\Exercicio_Senha\obj\Debug\Exercicio_Senha.csproj.CoreCompileInputs.cache
+C:\Users\guica\Downloads\ExercícioConstrutores\Exercicio_Senha\obj\Debug\Exercicio_Senha.exe
+C:\Users\guica\Downloads\ExercícioConstrutores\Exercicio_Senha\obj\Debug\Exercicio_Senha.pdb

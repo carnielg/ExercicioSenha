@@ -1,0 +1,7 @@
+C:\Users\guilherme.carniel\source\repos\ExercícioConstrutores\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\guilherme.carniel\source\repos\ExercícioConstrutores\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.carniel\source\repos\ExercícioConstrutores\Teste\bin\Debug\Teste.exe.config
+C:\Users\guilherme.carniel\source\repos\ExercícioConstrutores\Teste\bin\Debug\Teste.exe
+C:\Users\guilherme.carniel\source\repos\ExercícioConstrutores\Teste\bin\Debug\Teste.pdb
+C:\Users\guilherme.carniel\source\repos\ExercícioConstrutores\Teste\obj\Debug\Teste.exe
+C:\Users\guilherme.carniel\source\repos\ExercícioConstrutores\Teste\obj\Debug\Teste.pdb
